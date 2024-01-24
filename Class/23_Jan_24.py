@@ -66,7 +66,7 @@ print(max(list_2))
 print(min(list_2))
 
 # random
-import random from randint
+# import random from randint
 
 
 # Assignment
