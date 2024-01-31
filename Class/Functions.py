@@ -46,5 +46,14 @@ list = [7,0,3,4,8,5,9]
 l=[]
 print(Even(list,l))
 
+'''
+                H W
+Write a python fun that takes a dictionery as an input and returns a new dictionery 
+where the keys adn values are swapped
+
+
+write a python function that takes two sets as input and retuns a new set containing element that common 
+to both set
+'''
 
 
