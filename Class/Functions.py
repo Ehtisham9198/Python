@@ -23,3 +23,28 @@ def Factorial(n):
             return n*Factorial(n-1)
 
 print(Factorial(5))
+
+
+def Even(list):
+      for item in list:
+            if (item%2==0):
+              return True
+       
+      return False
+
+list = [7,0,3,5,9]
+print(Even(list))
+
+def Even(list,l):
+      for item in list:
+            if (item%2==0):
+              l.append(item)
+       
+      return l
+
+list = [7,0,3,4,8,5,9]
+l=[]
+print(Even(list,l))
+
+
+
